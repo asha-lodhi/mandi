@@ -4,7 +4,7 @@ import VeggieBrand from "../../assets/img/veggie.png";
 const authFooter = () => {
 	return (
 		<div>
-			<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-0 py-2">
+			<nav class="navbar navbar-expand-lg navbar-dark bg-dark px-0 py-2 fixed-top shadow">
 				<div class="container-xl">
 					{/* <!-- Logo --> */}
 					<a class="navbar-brand" href="#">
