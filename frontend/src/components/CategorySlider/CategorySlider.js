@@ -1,15 +1,16 @@
 import React from "react";
-import C1 from "../../assets/img/C1.png";
-import C2 from "../../assets/img/C2.webp";
-import C3 from "../../assets/img/C3.jpeg";
-import C4 from "../../assets/img/C4.jpeg";
-import C5 from "../../assets/img/C5.jpeg";
+import C1 from "../../assets/img/category/C1.png";
+import C2 from "../../assets/img/category/C2.webp";
+import C3 from "../../assets/img/category/C3.jpeg";
+import C4 from "../../assets/img/category/C4.jpeg";
+import C5 from "../../assets/img/category/C5.jpeg";
+import C6 from "../../assets/img/category/C6.webp";
 
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 
 const CategorySlider = () => {
-	const arr = [C1, C2, C3, C4, C5, C3, C1, C2, C4];
+	const arr = [C1, C2, C3, C4, C5, C6];
 	const responsive = {
 		superLargeDesktop: {
 			// the naming can be any, depends on you.
@@ -51,8 +52,8 @@ const CategorySlider = () => {
 						<div className="imgContainerCss">
 							<img
 								style={{
-									height: "15rem",
-									width: "15rem",
+									height: "13rem",
+									width: "13rem",
 									borderRadius: "10rem",
 								}}
 								class="img-fluid"

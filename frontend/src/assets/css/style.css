@@ -33,7 +33,7 @@
 .sliderCategoryTxt {
 	background-color: #81c435;
 	height: 2rem;
-	width: 13rem;
+	width: 10rem;
 	border-radius: 50rem !important;
 	display: flex;
 	justify-content: center;
@@ -46,14 +46,88 @@
 }
 .imgContainerCss {
 	position: relative;
-	height: 15rem;
-	width: 15rem;
+	height: 13rem;
+	width: 13rem;
 	border-radius: 10rem;
+	margin: 1rem;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	overflow: hidden;
+}
+
+/* ==========List style========== */
+.itmContainerCss {
+	position: relative;
+	height: 20rem;
+	width: 15rem;
+	border-radius: 1rem;
+	border: 1px solid #81c435;
+	margin: 1rem;
 	overflow: hidden;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	padding-left: 0 !important;
+	padding-right: 0 !important;
 }
-/* .imgStyle {
-	height: 15rem;
-	width: 15rem;
-	border-radius: 10rem;
-} */
+
+.itmContainerCss:hover .listTxt {
+	opacity: -1;
+}
+.itmContainerCss:hover .itmImgContainerCss {
+	opacity: 0.5;
+}
+.listTxt {
+	height: 2rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: black;
+	font-weight: bold;
+}
+.cartTxt {
+	background-color: white;
+	height: 3rem;
+	width: 13rem;
+	border-radius: 50rem !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top: 8rem;
+	right: 1rem;
+	color: black;
+	font-weight: bold;
+	box-shadow: 0 10px 6px -6px #777;
+	opacity: -1;
+}
+
+.reviewTxt {
+	background-color: white;
+	height: 3rem;
+	width: 13rem;
+	border-radius: 50rem !important;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	bottom: 4rem;
+	right: 1rem;
+	color: black;
+	font-weight: bold;
+	box-shadow: 0 10px 6px -6px #777;
+	opacity: -1;
+}
+.itmContainerCss:hover .cartTxt {
+	opacity: 1;
+}
+.itmContainerCss:hover .reviewTxt {
+	opacity: 1;
+}
+#row-override-css1 {
+	padding-left: 0px !important;
+}
+
+/* =======Offer Style========================= */
+
+.OfferTxtDiv {
+	padding-top: 2rem;
+	margin-bottom: 4rem;
+}
