@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/mandi/static/css/main.39237b93.css",
+    "main.js": "/mandi/static/js/main.2ea48978.js",
+    "static/media/S3.jpeg": "/mandi/static/media/S3.b1efe7e92df4f7177fd8.jpeg",
+    "static/media/C1.png": "/mandi/static/media/C1.e91b4f96dc1d1980de92.png",
+    "static/media/C5.jpeg": "/mandi/static/media/C5.71ccb6584cd4c70fc12f.jpeg",
+    "static/media/veggie.png": "/mandi/static/media/veggie.09ddcb2574b6cf7fb8dc.png",
+    "static/media/C6.webp": "/mandi/static/media/C6.9007946521d7bc2f8030.webp",
+    "static/media/S2.jpeg": "/mandi/static/media/S2.2bd5e384f9d8e1198800.jpeg",
+    "static/media/S1.jpeg": "/mandi/static/media/S1.7f47bbd2ba733fe28a9e.jpeg",
+    "static/media/Broccoli.jpeg": "/mandi/static/media/Broccoli.dd274f8752b1d8f704b3.jpeg",
+    "static/media/Strawberry.jpeg": "/mandi/static/media/Strawberry.8c1d56c01ad66c30953a.jpeg",
+    "static/media/S4.jpeg": "/mandi/static/media/S4.ffc5c60523cca2aca780.jpeg",
+    "static/media/C3.jpeg": "/mandi/static/media/C3.42ff353a9f70b1957413.jpeg",
+    "static/media/Guava.webp": "/mandi/static/media/Guava.6ba01ececa8c285d9d45.webp",
+    "static/media/Tomato.jpeg": "/mandi/static/media/Tomato.e753a3d38a249f46977c.jpeg",
+    "static/media/C4.jpeg": "/mandi/static/media/C4.bc6d913ca062e0b345e5.jpeg",
+    "static/media/Mango.jpeg": "/mandi/static/media/Mango.f2b5452e508d053201d5.jpeg",
+    "static/media/Cauliflower.webp": "/mandi/static/media/Cauliflower.14b68a0dbb723184a956.webp",
+    "static/media/Apple.jpeg": "/mandi/static/media/Apple.f34e77a87162ce4208be.jpeg",
+    "static/media/Banana.jpeg": "/mandi/static/media/Banana.e24e9605aab6a838041e.jpeg",
+    "static/media/Offer.jpeg": "/mandi/static/media/Offer.2c4221ea1ebcc9dec121.jpeg",
+    "static/media/Dragon.webp": "/mandi/static/media/Dragon.66330cd9f0542829470f.webp",
+    "static/media/C2.webp": "/mandi/static/media/C2.f9b773cdd11307dbcfa8.webp",
+    "static/media/CustomerReview.avif": "/mandi/static/media/CustomerReview.dca6f5f7b6eb1f8f7e56.avif",
+    "static/media/ShimlaMirch.avif": "/mandi/static/media/ShimlaMirch.cceba027f3c40dd5bfb6.avif",
+    "static/media/Cherries.webp": "/mandi/static/media/Cherries.cf3f27ecc5eae78464f7.webp",
+    "static/media/Brinjal.jpeg": "/mandi/static/media/Brinjal.7dd50b7a167b7b53f24d.jpeg",
+    "static/media/revicons.eot": "/mandi/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/mandi/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/mandi/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/mandi/index.html",
+    "main.39237b93.css.map": "/mandi/static/css/main.39237b93.css.map",
+    "main.2ea48978.js.map": "/mandi/static/js/main.2ea48978.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39237b93.css",
+    "static/js/main.2ea48978.js"
+  ]
+}
